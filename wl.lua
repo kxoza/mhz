@@ -1,10 +1,10 @@
 userids = {
 [762426954] = true,
-[] = true,
-[] = true,
-[] = true,
-[] = true,
-[] = true,
-[] = true
+[0] = true,
+[0] = true,
+[0] = true,
+[0] = true,
+[0] = true,
+[0] = true
 }
 return userids
